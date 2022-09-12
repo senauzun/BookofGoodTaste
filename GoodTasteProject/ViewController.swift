@@ -49,6 +49,7 @@ class ViewController: UIViewController , MKMapViewDelegate, CLLocationManagerDel
         navigationItem.rightBarButtonItem = UIBarButtonItem(barButtonSystemItem: UIBarButtonItem.SystemItem.save, target: self, action: #selector(saveButtonClicked))
         
         if selectedTitle != "" {
+            //get data
             let appDelegate = UIApplication.shared.delegate as! AppDelegate
             let context = appDelegate.persistentContainer.viewContext
             
