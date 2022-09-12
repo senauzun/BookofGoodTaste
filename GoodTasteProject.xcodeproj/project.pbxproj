@@ -14,6 +14,7 @@
 		B8C9D7C028CFDCD3000BDA50 /* GoodTasteProject.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = B8C9D7BE28CFDCD3000BDA50 /* GoodTasteProject.xcdatamodeld */; };
 		B8C9D7C228CFDCD5000BDA50 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B8C9D7C128CFDCD5000BDA50 /* Assets.xcassets */; };
 		B8C9D7C528CFDCD5000BDA50 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B8C9D7C328CFDCD5000BDA50 /* LaunchScreen.storyboard */; };
+		B8C9D7CD28CFDD74000BDA50 /* ListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8C9D7CC28CFDD74000BDA50 /* ListViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		B8C9D7C128CFDCD5000BDA50 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B8C9D7C428CFDCD5000BDA50 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B8C9D7C628CFDCD5000BDA50 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B8C9D7CC28CFDD74000BDA50 /* ListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				B8C9D7B528CFDCD3000BDA50 /* AppDelegate.swift */,
 				B8C9D7B728CFDCD3000BDA50 /* SceneDelegate.swift */,
 				B8C9D7B928CFDCD3000BDA50 /* ViewController.swift */,
+				B8C9D7CC28CFDD74000BDA50 /* ListViewController.swift */,
 				B8C9D7BB28CFDCD3000BDA50 /* Main.storyboard */,
 				B8C9D7C128CFDCD5000BDA50 /* Assets.xcassets */,
 				B8C9D7C328CFDCD5000BDA50 /* LaunchScreen.storyboard */,
@@ -144,6 +147,7 @@
 				B8C9D7BA28CFDCD3000BDA50 /* ViewController.swift in Sources */,
 				B8C9D7B628CFDCD3000BDA50 /* AppDelegate.swift in Sources */,
 				B8C9D7C028CFDCD3000BDA50 /* GoodTasteProject.xcdatamodeld in Sources */,
+				B8C9D7CD28CFDD74000BDA50 /* ListViewController.swift in Sources */,
 				B8C9D7B828CFDCD3000BDA50 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
